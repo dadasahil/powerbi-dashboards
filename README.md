@@ -18,10 +18,10 @@ This dashboard analyzes sales performance, customer behavior, and product trends
 ## Dashboard Preview
 
 ### Dashboard 1
-![Dashboard 1](Images/Dashboard1.png)
+![Dashboard 1](Dashboard1.png)
 
 ### Dashboard 2
-![Dashboard 2](Images/Dashboard2.png)
+![Dashboard 2](Dashboard2.png)
 
 ## Author
 Sahil Dada
